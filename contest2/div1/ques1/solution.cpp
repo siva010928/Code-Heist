@@ -1,4 +1,4 @@
-//Professor wants to find out teamate for each person
+//Professor wants to find out teamate for each person (i.e if person height is just less than his left persons he can teamup and escape)
 #include<bits/stdc++.h>
 using namespace std;
 
