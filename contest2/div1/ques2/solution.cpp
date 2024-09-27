@@ -1,4 +1,4 @@
-//which two sticks will make pair to collect maximum volume of water
+//which two sticks will make pair to collect maximum volume of water.
 #include<bits/stdc++.h>
 using namespace std;
 
